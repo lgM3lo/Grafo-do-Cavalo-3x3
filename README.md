@@ -18,9 +18,3 @@ Projeto em Python estruturado no estilo algs4.
          ├── __init__.py
          └── bag.py
 ```
-
-## Executar
-
-```bash
-python src/main.py dados/entrada.txt
-```
